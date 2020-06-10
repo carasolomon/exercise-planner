@@ -1,2 +1,2 @@
-# exercise-planner
+# Exercise Planner
 Web application for scheduling online workouts.
